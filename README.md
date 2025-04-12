@@ -40,7 +40,7 @@ The following optional features have been implemented:
 Here's a walkthrough of implemented features:  
 
 *(Include a GIF or link to a screen recording here)*  
-GIF created with []
+GIF created with https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemozZXM5c25mamowbWsxODB4OGYwdXh2dHlpYmV3b2ZmeTc0Y3JhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPWAUYYil2gbVFmrBD/giphy.gif
 
 ---
 
