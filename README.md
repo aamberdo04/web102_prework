@@ -40,7 +40,7 @@ The following optional features have been implemented:
 Here's a walkthrough of implemented features:  
 
 *(Include a GIF or link to a screen recording here)*  
-GIF created with [Your Tool Name Here]
+GIF created with []
 
 ---
 
